@@ -1,1 +1,1 @@
-# Leave module initialization
+from .apps import LeaveConfig
